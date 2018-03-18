@@ -1,4 +1,5 @@
-=== Scrape, Soup & Send ===
+Scrape, Soup & Send
+===================
 Schpeel for the motivation behind writing this script: 
 
 I am going to Barcelona in May this year. I was planning to book an appointment for a visa through the Consulate of Spain in San Francisco. I still have two months before my trip, but there is no booking available until early June. 
@@ -12,5 +13,7 @@ For the scraping part, the script uses a combination of Selenium and BeautifulSo
 * https://pypi.python.org/pypi/beautifulsoup4
 * https://www.twilio.com/docs/api/messaging/send-messages
 
-To run the script in the background, run 
+To run the script in the background, run: 
+```
 python scrape-and-soup-and-send.py &
+```
