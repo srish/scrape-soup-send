@@ -5,7 +5,7 @@
 
     MIT license
 
-    :author: Srishti Sethi <ssethi@wikimedia.org>
+    :author: Srishti Sethi <srishakatux@gmail.com>
 """
 
 import time
